@@ -1,1 +1,1 @@
-*This Project is live at:* https://ai-pdf-analyzer-aicraftalchemy.streamlit.app/
+*This Project is live at:* https://web-analyzer-aicraftalchemy.streamlit.app/
